@@ -3,7 +3,7 @@
 <h1 align="center">Hola, soy Yoel 👋</h1>
 
 
-👋 ¡Hola! Soy un estudiante autodidacta apasionado por la programación y la tecnología. Me gusta aprender y enfrentar nuevos desafíos para mejorar mis habilidades y expandir mis conocimientos en este apasionante mundo. Estoy en constante capacitación, explorando diferentes áreas de la programación y trabajando en proyectos que me permiten seguir creciendo.
+👋  ¡Hola! Soy un estudiante autodidacta apasionado por la programación y la tecnología. Me gusta aprender y enfrentar nuevos desafíos para mejorar mis habilidades y expandir mis conocimientos en este apasionante mundo. Estoy en constante capacitación, explorando diferentes áreas de la programación y trabajando en proyectos que me permiten seguir creciendo.
 
 
 <p align="center">
