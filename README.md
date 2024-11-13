@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  You can find me on:
+  Puedes encontrarme en:
 </p>
 
 <p align="center">
